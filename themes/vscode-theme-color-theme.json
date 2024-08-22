@@ -1634,9 +1634,9 @@
     },
     {
       "name": "comments",
-      "scope": ["beginning.punctuation.definition.list.markdown.xi"],
+      "scope": ["comment", "comment.block", "comment.line"],
       "settings": {
-        "foreground": "#4f5053"
+        "foreground": "#fff"
       }
     },
     {
